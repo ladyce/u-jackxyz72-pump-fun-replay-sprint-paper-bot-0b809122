@@ -32,7 +32,7 @@ node main.ts
 | Max drawdown | 0.0084 |
 | Round trips counted | 132 (56 mints) |
 | House grade | compliant, deterministic (two runs reproduced) |
-| Stress (rebuilt windows, interim) | 6 of 10 copies done, all negative: −0.05, −0.07, −0.09, −0.06, −0.06, −0.02 SOL (median −0.06) — the dev win depends on this window's own coins |
+| Stress (10 rebuilt windows) | median −0.057 SOL, p10 −0.089 / p90 −0.025, 10/10 lost money — the dev win depends on this window's own coins |
 
 ## License
 
